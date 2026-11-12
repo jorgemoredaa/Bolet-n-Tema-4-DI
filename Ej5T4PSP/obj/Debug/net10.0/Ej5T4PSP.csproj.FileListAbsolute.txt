@@ -1,0 +1,15 @@
+C:\Users\Jorge\source\repos\Boletin123\Ej5T4PSP\bin\Debug\net10.0\Ej5T4PSP.exe
+C:\Users\Jorge\source\repos\Boletin123\Ej5T4PSP\bin\Debug\net10.0\Ej5T4PSP.deps.json
+C:\Users\Jorge\source\repos\Boletin123\Ej5T4PSP\bin\Debug\net10.0\Ej5T4PSP.runtimeconfig.json
+C:\Users\Jorge\source\repos\Boletin123\Ej5T4PSP\bin\Debug\net10.0\Ej5T4PSP.dll
+C:\Users\Jorge\source\repos\Boletin123\Ej5T4PSP\bin\Debug\net10.0\Ej5T4PSP.pdb
+C:\Users\Jorge\source\repos\Boletin123\Ej5T4PSP\obj\Debug\net10.0\Ej5T4PSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge\source\repos\Boletin123\Ej5T4PSP\obj\Debug\net10.0\Ej5T4PSP.AssemblyInfoInputs.cache
+C:\Users\Jorge\source\repos\Boletin123\Ej5T4PSP\obj\Debug\net10.0\Ej5T4PSP.AssemblyInfo.cs
+C:\Users\Jorge\source\repos\Boletin123\Ej5T4PSP\obj\Debug\net10.0\Ej5T4PSP.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\source\repos\Boletin123\Ej5T4PSP\obj\Debug\net10.0\Ej5T4PSP.dll
+C:\Users\Jorge\source\repos\Boletin123\Ej5T4PSP\obj\Debug\net10.0\refint\Ej5T4PSP.dll
+C:\Users\Jorge\source\repos\Boletin123\Ej5T4PSP\obj\Debug\net10.0\Ej5T4PSP.pdb
+C:\Users\Jorge\source\repos\Boletin123\Ej5T4PSP\obj\Debug\net10.0\Ej5T4PSP.genruntimeconfig.cache
+C:\Users\Jorge\source\repos\Boletin123\Ej5T4PSP\obj\Debug\net10.0\ref\Ej5T4PSP.dll
+C:\Users\Jorge\source\repos\Boletin123\Ej5T4PSP\obj\Debug\net10.0\Ej5T4PSP.csproj.Up2Date

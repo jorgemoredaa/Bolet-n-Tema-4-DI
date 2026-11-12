@@ -1,0 +1,22 @@
+<Solution>
+  <Folder Name="/BolT123Lost/">
+    <Project Path="../ej10/ej10.csproj" />
+    <Project Path="../Ej9/Ej9.csproj" />
+  </Folder>
+  <Folder Name="/BolT4DI/">
+    <Project Path="../Ej1DI/Ej1T4DI.csproj" />
+    <Project Path="../Ej2T4DI/Ej2T4DI.csproj" />
+    <Project Path="../Ej3T4DI/Ej3T4DI.csproj" />
+    <Project Path="../Ej4T4DI/Ej4T4DI.csproj" />
+  </Folder>
+  <Folder Name="/BolT4PSP/">
+    <Project Path="../Ej2/Ej2T4PSP.csproj" />
+    <Project Path="../Ej3T4PSP/Ej3T4PSP.csproj" />
+    <Project Path="../Ej4T4PSP/Ej4T4PSP.csproj" />
+    <Project Path="../Ej5T4PSP/Ej5T4PSP.csproj" />
+    <Project Path="Ej1T4PSP.csproj" />
+  </Folder>
+  <Folder Name="/BolT5PSP/">
+    <Project Path="../Ej1_T5PSP/Ej1_T5PSP.csproj" />
+  </Folder>
+</Solution>
